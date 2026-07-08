@@ -2,7 +2,7 @@
 
 ## Overview
 
-**IZ Data Lab** is a collection of data analysis and visualization projects exploring macroeconomics, financial markets, and cryptocurrency using publicly available datasets.
+**IZData Lab** is a collection of data analysis and visualization projects exploring macroeconomics, financial markets, and cryptocurrency using publicly available datasets.
 
 The goal of this repository is to transform complex economic and financial data into clear, informative visualizations that help explain long-term trends, market relationships, and historical events.
 
