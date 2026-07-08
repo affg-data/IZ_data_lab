@@ -1,4 +1,4 @@
-# Phillips Curve Series Analysis
+# Phillips Curve Analysis
 
 ## Project Series
 
