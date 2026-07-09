@@ -12,6 +12,10 @@ The visualization highlights how inflation has evolved across multiple business 
 
 ## What the Visualization Shows
 
+<p align="center">
+  <img src="US_CPI_with_Unemployment_Rate_Fed_Fund_Recession_OilShock.png" width="950">
+</p>
+
 The stacked bars decompose **Headline CPI inflation** into its major components:
 
 - 🔵 **Core CPI** – Inflation excluding food and energy. This represents underlying inflation pressures and typically changes gradually over time.
