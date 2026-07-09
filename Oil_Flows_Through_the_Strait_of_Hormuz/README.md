@@ -12,6 +12,10 @@ This project visualizes the global destinations of crude oil transported through
 
 ## What the Visualization Shows
 
+<p align="center">
+  <img src="Oil_Flows_Through_the_Strait_of_Hormuz.png" width="850">
+</p>
+
 The chart illustrates the destination of crude oil shipments passing through the Strait of Hormuz during **2024**.
 
 According to the U.S. Energy Information Administration (EIA), approximately **14.3 million barrels of crude oil per day** passed through the strait in 2024 based on tanker-tracking data from Vortexa.
