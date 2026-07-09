@@ -114,7 +114,7 @@ Projects use publicly available data from organizations including:
 ## Repository Structure
 
 ```
-IZ_data_lab/
+IZData_lab/
 │
 ├── Bitcoin_vs_Stablecoin_Liquidity/
 ├── Bitcoin_vs_US10yr_Real_Yield_(TIPS)/
@@ -134,7 +134,7 @@ Each project contains:
 
 ## Purpose
 
-The purpose of **IZ Data Lab** is to build a collection of reproducible, data-driven analyses that explain important economic, financial, and geopolitical topics through visualization.
+The purpose of **IZData Lab** is to build a collection of reproducible, data-driven analyses that explain important economic, financial, and geopolitical topics through visualization.
 
 Rather than focusing solely on statistical models, these projects emphasize historical context, market dynamics, and intuitive storytelling to make complex data more accessible.
 
@@ -142,7 +142,7 @@ Rather than focusing solely on statistical models, these projects emphasize hist
 
 ## About
 
-IZ Data Lab is an evolving collection of analyses. New projects are added as they are completed, with a focus on creating clear, reproducible visualizations that help explain real-world economic and financial trends.
+IZData Lab is an evolving collection of analyses. New projects are added as they are completed, with a focus on creating clear, reproducible visualizations that help explain real-world economic and financial trends.
 
 
 ---
